@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python ./src/test.py tracking --exp_id mot17_fulltrain_SNL --dataset mot --dataset_version 17test --pre_hm --ltrb_amodal --inference --trades --load_model ./models/RFBMFC_50e_SNL_768_768.pth --save_video --save_all --input_h 768 --input_w 768
