@@ -1,4 +1,4 @@
-# [IEEE TGRS 2024] MTT-RFBMFC: A Multi-Vehicle Tracking Method for Video-SAR with Reliable Foreground-Background Motion Feature Compensation
+# [IEEE TGRS 2024] A Multi-Vehicle Tracking Method for Video-SAR with Reliable Foreground-Background Motion Feature Compensation
 
 * * *
 
