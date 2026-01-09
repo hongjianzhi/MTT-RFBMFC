@@ -27,7 +27,7 @@ $ pip install -r requirements.txt
 
 ## Inference
 
-Due to the restrict of large file size of git, please download the trained MTT-RFBMFC in [Baidu Netdisk Link](https://pan.baidu.com/s/1tla7PTNGgwLKFVd-8FBnfQ?pwd=aiu9), and put it into `./models`.
+Due to the restrict of large file size of git, please download the trained MTT-RFBMFC in [Baidu Netdisk Link](https://pan.baidu.com/s/1p8fjTpjCNcB7m2vwo6XXmQ?pwd=gpgs), and put it into `./models`.
 
 For inference, run
 
